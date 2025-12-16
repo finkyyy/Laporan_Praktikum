@@ -16,4 +16,4 @@ Kumpulan laporan praktikum selama perkuliahan
 - Struktur Data
 - Paradigma Pemrograman
 
-✨ disusun dan dikelola dengan rapi ✨
+✨ Belajarlah Menyukai Hal Baru ✨
