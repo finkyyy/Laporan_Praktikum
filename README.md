@@ -11,7 +11,7 @@ Kumpulan laporan praktikum selama perkuliahan
 - Statistika
 - Pemodelan Statistika
 - Sistem Terdistribusi Dan Terdesentralisasi
-- Metodolodi Pengembangan Perangkat Lunak
+- Metodologi Pengembangan Perangkat Lunak
 - Pemrograman Web Client
 - Struktur Data
 - Paradigma Pemrograman
